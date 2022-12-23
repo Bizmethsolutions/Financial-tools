@@ -1,0 +1,98 @@
+[02-Sep-2021 09:00:39 UTC] PHP Fatal error:  Cannot use App\Models\User as User because the name is already in use in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Http/Controllers/AuthController.php on line 7
+[23-Sep-2021 18:48:40 UTC] PHP Fatal error:  Cannot use [] for reading in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 49
+[18-Oct-2021 07:18:02 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php:182
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home2/bizmed4p...', 182, Array)
+#1 /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php(182): array_diff(Array, Array)
+#2 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home2/bizmed4p...')
+#3 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home2/bizmed4p...', Array)
+#5 /home2 in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 182
+[18-Oct-2021 07:18:02 UTC] PHP Fatal error:  Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 182
+[18-Oct-2021 07:20:27 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php:182
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home2/bizmed4p...', 182, Array)
+#1 /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php(182): array_diff(Array, Array)
+#2 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home2/bizmed4p...')
+#3 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home2/bizmed4p...', Array)
+#5 /home2 in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 182
+[18-Oct-2021 07:20:27 UTC] PHP Fatal error:  Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 182
+[18-Oct-2021 07:20:53 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php:182
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home2/bizmed4p...', 182, Array)
+#1 /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php(182): array_diff(Array, Array)
+#2 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home2/bizmed4p...')
+#3 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home2/bizmed4p...', Array)
+#5 /home2 in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 182
+[18-Oct-2021 07:20:53 UTC] PHP Fatal error:  Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 182
+[18-Oct-2021 07:22:03 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php:182
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home2/bizmed4p...', 182, Array)
+#1 /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php(182): array_diff(Array, Array)
+#2 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home2/bizmed4p...')
+#3 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home2/bizmed4p...', Array)
+#5 /home2 in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 182
+[18-Oct-2021 07:22:03 UTC] PHP Fatal error:  Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 182
+[18-Oct-2021 07:31:36 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php:184
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home2/bizmed4p...', 184, Array)
+#1 /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php(184): array_diff(Array, Array)
+#2 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home2/bizmed4p...')
+#3 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home2/bizmed4p...', Array)
+#5 /home2 in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 184
+[18-Oct-2021 07:31:36 UTC] PHP Fatal error:  Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 184
+[18-Oct-2021 07:32:06 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php:184
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home2/bizmed4p...', 184, Array)
+#1 /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php(184): array_diff(Array, Array)
+#2 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home2/bizmed4p...')
+#3 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home2/bizmed4p...', Array)
+#5 /home2 in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 184
+[18-Oct-2021 07:32:06 UTC] PHP Fatal error:  Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 184
+[18-Oct-2021 07:33:39 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php:182
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home2/bizmed4p...', 182, Array)
+#1 /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php(182): array_diff(Array, Array)
+#2 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home2/bizmed4p...')
+#3 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home2/bizmed4p...', Array)
+#5 /home2 in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 182
+[18-Oct-2021 07:33:39 UTC] PHP Fatal error:  Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 182
+[18-Oct-2021 07:44:21 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php:183
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home2/bizmed4p...', 183, Array)
+#1 /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php(183): array_diff(Array, Array)
+#2 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home2/bizmed4p...')
+#3 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home2/bizmed4p...', Array)
+#5 /home2 in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 183
+[18-Oct-2021 07:44:21 UTC] PHP Fatal error:  Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 183
+[18-Oct-2021 07:47:39 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php:183
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home2/bizmed4p...', 183, Array)
+#1 /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php(183): array_diff(Array, Array)
+#2 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home2/bizmed4p...')
+#3 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home2/bizmed4p/bizmeth.co.in/Finsuite/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home2/bizmed4p...', Array)
+#5 /home2 in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 183
+[18-Oct-2021 07:47:39 UTC] PHP Fatal error:  Object of class stdClass could not be converted to string in /home2/bizmed4p/bizmeth.co.in/Finsuite/storage/framework/views/68a7c6447cb432d6c09717c78b3e0070db276fe7.php on line 183
+[11-Nov-2021 12:27:19 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Http/Controllers/ProfileController.php on line 28
+[11-Nov-2021 12:31:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Http/Controllers/ProfileController.php on line 28
+[12-Nov-2021 06:05:47 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserController::adduser() in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Http/Controllers/UserController.php on line 29
+[13-Dec-2021 12:29:59 UTC] PHP Fatal error:  Cannot use [] for reading in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Http/Controllers/TransactionController.php on line 60
+[15-Dec-2021 09:59:08 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\TransactionController::ignored() in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Http/Controllers/TransactionController.php on line 135
+[15-Dec-2021 09:59:31 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\TransactionController::ignored() in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Http/Controllers/TransactionController.php on line 135
+[13-Jan-2022 13:08:20 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Http/Controllers/TransactionController.php on line 16
+[17-Jan-2022 18:52:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Http/Controllers/CompanyController.php on line 227
+[17-Jan-2022 19:41:47 UTC] PHP Fatal error:  Class App\Imports\CompanyImport contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Maatwebsite\Excel\Concerns\ToCollection::collection) in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Imports/UsersImport.php on line 8
+[17-Jan-2022 19:47:17 UTC] PHP Fatal error:  Class App\Imports\CompanyImport contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Maatwebsite\Excel\Concerns\ToCollection::collection) in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Imports/UsersImport.php on line 8
+[17-Jan-2022 19:51:55 UTC] PHP Fatal error:  Class App\Imports\CompanyImport contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Maatwebsite\Excel\Concerns\ToCollection::collection) in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Imports/CompanyImport.php on line 8
+[17-Jan-2022 20:01:27 UTC] PHP Fatal error:  Trait 'App\Models\HasApiTokens' not found in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Models/Company.php on line 7
+[17-Jan-2022 20:08:21 UTC] PHP Fatal error:  Cannot use WithStartRow as WithStartRow because the name is already in use in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Imports/CompanyImport.php on line 7
+[17-Jan-2022 20:43:47 UTC] PHP Fatal error:  Class App\Imports\CompanyImport contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Maatwebsite\Excel\Concerns\WithMappedCells::mapping) in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/Imports/CompanyImport.php on line 11
+[17-Jan-2022 20:49:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home2/bizmed4p/bizmeth.co.in/Finsuite/app/helpers.php on line 15
